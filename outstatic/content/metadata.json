@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2026-03-16T20:15:38.353Z",
+  "commit": "4b313162a462209d1a12ee89f0580afa3eb8739c",
+  "generated": "2026-03-16T20:17:24.286Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "1763260594",
+        "commit": "4b313162a462209d1a12ee89f0580afa3eb8739c",
+        "hash": "3558368840",
         "path": "outstatic/content/yan-yun-shi-liu-sheng/yan-yun-shi-liu-sheng-chen-guan-bo-meng-fu-ben-gong-lue-10ren-tuan-ben.mdx"
       },
       "author": {
@@ -15,7 +15,7 @@
       "collection": "yan-yun-shi-liu-sheng",
       "publishedAt": "2026-03-16T21:03:00.441Z",
       "slug": "yan-yun-shi-liu-sheng-chen-guan-bo-meng-fu-ben-gong-lue-10ren-tuan-ben",
-      "status": "draft",
+      "status": "published",
       "title": "《燕雲十六聲》沉棺泊夢副本攻略（10人團本）"
     }
   ]
