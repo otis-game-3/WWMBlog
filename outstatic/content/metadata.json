@@ -1,6 +1,6 @@
 {
-  "commit": "4b313162a462209d1a12ee89f0580afa3eb8739c",
-  "generated": "2026-03-16T20:17:24.286Z",
+  "commit": "35cbe8c4bdfebff98dca46d578222e6e4e146448",
+  "generated": "2026-03-16T20:42:46.504Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "yan-yun-shi-liu-sheng-chen-guan-bo-meng-fu-ben-gong-lue-10ren-tuan-ben",
       "status": "published",
       "title": "《燕雲十六聲》沉棺泊夢副本攻略（10人團本）"
+    },
+    {
+      "__outstatic": {
+        "commit": "35cbe8c4bdfebff98dca46d578222e6e4e146448",
+        "hash": "2697598888",
+        "path": "outstatic/content/posts/yan-yun-shi-liu-sheng-chen-guan-bo-meng-fu-ben-gong-lue-10ren-tuan-ben.md"
+      },
+      "author": {
+        "name": "otis.game.3@gmail.com",
+        "picture": "https://avatars.githubusercontent.com/u/268698255?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-03-16T21:29:41.641Z",
+      "slug": "yan-yun-shi-liu-sheng-chen-guan-bo-meng-fu-ben-gong-lue-10ren-tuan-ben",
+      "status": "published",
+      "title": "燕雲十六聲沉棺泊夢副本攻略（10人團本）"
     }
   ]
 }
