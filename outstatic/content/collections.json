@@ -4,5 +4,11 @@
     "slug": "yan-yun-shi-liu-sheng",
     "path": "outstatic/content/yan-yun-shi-liu-sheng",
     "children": []
+  },
+  {
+    "title": "posts",
+    "slug": "posts",
+    "path": "outstatic/content/posts",
+    "children": []
   }
 ]
